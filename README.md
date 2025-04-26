@@ -85,3 +85,9 @@ Criar um sistema completo para controle de:
 - [ ] Autenticação de usuários
 - [ ] Testes da API
 - [ ] Integração com frontend (futuro)
+
+--
+
+## 🖥️ Diagrama de Banco de dados
+
+![Diagrama de BD](/DiagramaDB/BussinessManager.png)
