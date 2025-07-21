@@ -41,6 +41,7 @@ Criar um sistema completo para controle de:
 - Adicionar vendas (com valor de venda, data, produto)
 - Cálculo automático de lucro
 - Cálculo de fechamento mensal
+- Contas a pagar
 
 ### 🛒 Compras e Ingredientes
 - Cadastro de ingredientes
@@ -86,7 +87,7 @@ Criar um sistema completo para controle de:
 - [ ] Testes da API
 - [ ] Integração com frontend (futuro)
 
---
+---
 
 ## 🖥️ Diagrama de Banco de dados
 
